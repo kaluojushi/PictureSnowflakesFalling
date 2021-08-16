@@ -1,7 +1,7 @@
 # PictureSnowflakesFalling
 基于threejs的图片雪花飘落效果，不需要安装额外插件。
 
-点击[这里](https://kaluojushi.github.io/PictureSnowflakesFalling)查看效果。
+点击[这里](https://corecabin.cn/PictureSnowflakesFalling/)查看效果。
 
 ## 目录结构
 
